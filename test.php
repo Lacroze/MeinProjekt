@@ -2,6 +2,8 @@
 
 echo 'PHP ist cool und schnell';
 
-echo 'eine weitere Zeile'
+function test() {
+	echo 'test';
+}
 
 ?>
